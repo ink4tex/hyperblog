@@ -1,7 +1,18 @@
 body{
-    background-color: antiquewhite;
+    background-color: #444;
+    text-align: left;
+    color: white;
+    font-family: ''Courier New', Courier, monospace';
+}
+#container{
     text-align: center;
-    color: blue;
-    font-family: 'Courier New', Courier, monospace;
+    padding: 1em;
+    border: #442268 solid 3px ;
+    border-radius: 5px;
+    text-shadow: 4px 4px 0.5px  #5555ff;
+    margin: 0 auto;
 }
 
+#container h1{
+    font-size: 50px;
+}
