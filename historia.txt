@@ -1,6 +1,1 @@
 Esto es algo para usarlo en el curso de git
-
-este es para mi segundo commit
-
-
-esto se agrega luego del hard reset
