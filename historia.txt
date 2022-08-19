@@ -1,1 +1,3 @@
 Esto es algo para usarlo en el curso de git
+
+ahora esto es para hacer un commit perdiendo todo
