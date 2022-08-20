@@ -1,18 +1,40 @@
 body{
     background-color: #444;
     text-align: left;
-    color: white;
     font-family: ''Courier New', Courier, monospace';
 }
 #container{
     text-align: center;
-    padding: 1em;
+    padding: 1em 1px;
     border: #442268 solid 3px ;
     border-radius: 5px;
-    text-shadow: 4px 4px 0.5px  #5555ff;
-    margin: 0 auto;
+    margin: 0%;
+    color: #333;
+    background-color:ghostwhite;
 }
 
 #container h1{
     font-size: 50px;
+}
+
+#cabecera{
+    color: #33a;
+    margin: 0 auto;
+    text-shadow: 2px 2px 4px  #666;
+    background-color:#ccc;
+    box-shadow: 0px 5px 5px #aaa;
+    text-align: center;
+    font-size: 30px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#cabecera #tagline{
+    box-shadow: 1px 1px 1px #999;
+    padding: 0px 0px 0px 0px;
+    font-size: 15px;
+    font-family: cursive;
+    font-weight: normal;
+    position: relative;
+    left:35%;
+    
 }
