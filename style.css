@@ -29,7 +29,6 @@ body{
 }
 
 #cabecera #tagline{
-   
     box-shadow: 1px 1px 1px #999;
     padding: 0.5em 0 0.5em 2em;
     font-size: 15px;
@@ -45,8 +44,17 @@ body{
     box-shadow: 1px 1px 1px 2px  #999;
     transition: 1s;
 }
-
 #cabecera #logo{
     width: 50px;
     vertical-align: middle;
+}
+
+#footer{
+    text-align: center;
+    color: #33a;
+    background-color: #ccc;
+    padding: 0.5em;
+    font-size: 20px;
+    margin-bottom: 0;
+    
 }
